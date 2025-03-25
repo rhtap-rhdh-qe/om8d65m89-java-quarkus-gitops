@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: om8d65m89-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/om8d65m89-java-quarkus
